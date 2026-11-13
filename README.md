@@ -15,6 +15,6 @@ Freelance web developer and AI integration specialist based in Algeria 🇩🇿
 ![Express.js](https://img.shields.io/badge/Express.js-000000?style=flat&logo=express&logoColor=white)
 
 ## Let's connect
-- 💼 [LinkedIn]([https://linkedin.com/in/your-username](https://www.linkedin.com/in/abderrahmane-boukerma-9108492b7/)
-- 📸 [Instagram]([https://instagram.com/your-username](https://www.instagram.com/abderrahmane_dev)
+- 💼 [LinkedIn]([https://linkedin.com/in/your-username](https://www.linkedin.com/in/abderrahmane-boukerma-9108492b7/))
+- 📸 [Instagram]([https://instagram.com/your-username](https://www.instagram.com/abderrahmane_dev))
 - 📩 abderrahmane.dev0@gmail.com
